@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#c62828</color>
+    <color name="colorPrimaryDark">#b71c1c</color>
+    <color name="colorAccent">#8bc34a</color>
+    <color name="toolbarTextColor">#ffffff</color>
+    <color name="channelHeaderBackground">#eeeeee</color>
+    <color name="liveProgramHeaderBackground">#bdbdbd</color>
+    <color name="liveText">@color/colorPrimary</color>
+    <color name="programProgress">#6e8bc34a</color>
+</resources>
